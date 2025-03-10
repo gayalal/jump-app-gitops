@@ -22,6 +22,7 @@ jump-app-cicd:
   gitBranchDev: develop
   sa: tekton-deployments-admin
 
+
 # Global variables
 global:
   appsDomain: apps.cluster-4kh56.dynamic.redhatworkshops.io
